@@ -22,3 +22,13 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    git clone https://github.com/Aadil-H-W/Calculator.git
 
+2. Open the index.html file in your preferred web browser.
+
+## Usafe
+
+Simply input your numbers and click on the respective operation button to get the result.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me at kharlaadil@gmail.com
+
