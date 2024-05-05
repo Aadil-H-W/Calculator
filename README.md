@@ -10,7 +10,7 @@ Welcome to the Calculator repository! This simple calculator was created using H
 
 ## Preview
 
-![Calculator Preview]([https://github.com/Aadil-H-W/Calculator/assets/71883771/293b47c8-522a-4245-b7bc-9d4809774f67))
+![Calculator Preview](https://raw.githubusercontent.com/Aadil-H-W/Calculator/main/preview.png)
 
 
 ## Getting Started
