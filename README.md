@@ -24,7 +24,7 @@ To get a local copy up and running, follow these simple steps:
 
 2. Open the index.html file in your preferred web browser.
 
-## Usafe
+## Usage
 
 Simply input your numbers and click on the respective operation button to get the result.
 
