@@ -1,6 +1,6 @@
-# Calculator App
+# Calculator
 
-Welcome to the Calculator App repository! This simple calculator was created using HTML and CSS.
+Welcome to the Calculator repository! This simple calculator was created using HTML and CSS.
 
 ## Features
 
@@ -10,7 +10,7 @@ Welcome to the Calculator App repository! This simple calculator was created usi
 
 ## Preview
 
-![Calculator App Preview]([https://raw.githubusercontent.com/Aadil-H-W/Calculator/main/preview.png](https://github.com/Aadil-H-W/Calculator/blob/main/Calculator.png))
+![Calculator Preview]([https://raw.githubusercontent.com/Aadil-H-W/Calculator/main/preview.png](https://github.com/Aadil-H-W/Calculator/blob/main/Calculator.png))
 
 
 ## Getting Started
